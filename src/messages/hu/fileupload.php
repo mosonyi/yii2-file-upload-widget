@@ -18,13 +18,13 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Add files' => '',
-    'Start upload' => '',
-    'Cancel upload' => '',
-    'Start' => '',
-    'Cancel' => '',
-    'Error' => '',
-    'Delete' => '',
-    'Processing' => '',
-    'Select file...' => ''
+    'Add files' => 'Fileok hozzáadása',
+    'Start upload' => 'Összes feltöltés indítása',
+    'Cancel upload' => 'Feltöltés leállítása',
+    'Start' => 'Indítás',
+    'Cancel' => 'Mégsem',
+    'Error' => 'Hiba',
+    'Delete' => 'Törlés',
+    'Processing' => 'Feldolgozás',
+    'Select file...' => 'Válassz filet...'
 ];
